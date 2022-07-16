@@ -118,7 +118,7 @@ Go through all functions to try to understand Mathematica more
 - [ ] \[FormalCurlyKappa]
 - [ ] \[FormalCurlyRho]
 - [ ] \[FormalEpsilon]
-- [ ] AASTriangle
+- [X] AASTriangle
 - [ ] AbelianGroup
 - [ ] Abort
 - [ ] AbortKernels
