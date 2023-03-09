@@ -1727,7 +1727,7 @@ Go through all functions to try to understand Mathematica more
 - [ ] DimensionReduction
 - [ ] Dimensions
 - [ ] DiracComb
-- [ ] DiracDelta
+- [X] DiracDelta
 - [ ] DirectedEdge
 - [ ] DirectedEdges
 - [ ] DirectedGraph
